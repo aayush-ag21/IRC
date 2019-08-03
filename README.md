@@ -4,7 +4,7 @@ Since 1998, with it’s motto of spreading science and technology, Techfest has 
 The zonal qualifying rounds for the competition will be held in various countries, whose winning entries will be invited to compete in the IRC Grand Finale to be held at Techfest 2018-19, IIT Bombay.
 
 ![Manual Bot](https://github.com/TeamRoboconBITSPilani/TeamRoboconBITSPilani.github.io/blob/master/images/gallery/IMG_20181127_114109.jpg)
-**Manual holonomic three wheeled bot:**
+**Manual differential four wheeled bot:**
 
 Capable of lifting boxes with a custom arm mechanism. Equipped with a dart shooting mechanism with laser targeting. Electronics include an Arduino mega, Hercules motor drivers, buck converters, usb host-shield, red_gear transmitter and a red_gear controller.
 The Manual Bot was taken for the competition International Robotics Challenge organised by Techfest, IIT Bombay 2018 from 14th December to 16th December.
